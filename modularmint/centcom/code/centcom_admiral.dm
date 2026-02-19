@@ -16,7 +16,6 @@
 	department_for_prefs = /datum/job_department/captain
 
 	departments_list = list(
-		/datum/job_department/command,
 		/datum/job_department/central_command
 	)
 
